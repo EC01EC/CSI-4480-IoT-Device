@@ -4,7 +4,7 @@ Developed by Martin Hughes, Reed Sikorski, Y Duong, and Eric Chan
 
 A script to link a Raspberry Pi with an DHT11 sensor connected to the Kaa Open-Source IoT platform.
 
-The code in the file "kaaconection.py" has to be modified with the information kaa provides you on account setup. DON'T LOOSE THAT INFORMATION!
+The code in the file "kaaconection.py" has to be modified with the information kaa provides you on account setup. DON'T LOSE THAT INFORMATION!
 
 Set up your raspberry pi similar to the image below and look at the pin you are plugged into and make sure the pin in the code is set to the same pin the senor is plugged into on the arduino!
 
