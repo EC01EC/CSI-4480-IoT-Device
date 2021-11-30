@@ -13,8 +13,8 @@ import paho.mqtt.client as mqtt
 KPC_HOST = "mqtt.cloud.kaaiot.com"  # Kaa Cloud plain MQTT host
 KPC_PORT = 1883  # Kaa Cloud plain MQTT port
 
-ENDPOINT_TOKEN = "tZaxDvXavi"       # Paste endpoint token
-APPLICATION_VERSION = "c6briilah5mmh3hv3fog-v1"  # Paste application version
+ENDPOINT_TOKEN = ""       # Paste endpoint token
+APPLICATION_VERSION = ""  # Paste application version
 
 
 class KaaClient:
