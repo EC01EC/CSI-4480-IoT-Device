@@ -43,8 +43,8 @@ class KaaClient:
                 "fwVersion": "v0.0.1",
                 "customer": "IOTEDU",
                 #enter lat and lon of your device location!
-                "latitude": 11.335589,
-                "longitude":83.999999,
+                "latitude":  ,
+                "longitude": ,
             }
         ])
 
