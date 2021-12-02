@@ -6,13 +6,14 @@ import string
 import time
 import Adafruit_DHT
 sensor = Adafruit_DHT.DHT11
+#select the pin you used on the arduino 
 pin = 4
 
 import paho.mqtt.client as mqtt
 
 KPC_HOST = "mqtt.cloud.kaaiot.com"  # Kaa Cloud plain MQTT host
 KPC_PORT = 1883  # Kaa Cloud plain MQTT port
-
+#enter the infromation for Endpoint token(Provided by kaa) and the version of your application(provided by kaa)
 ENDPOINT_TOKEN = ""       # Paste endpoint token
 APPLICATION_VERSION = ""  # Paste application version
 
@@ -41,8 +42,9 @@ class KaaClient:
                 "model": "Dht11",
                 "fwVersion": "v0.0.1",
                 "customer": "IOTEDU",
-                "latitude": 13.019318,
-                "longitude":77.595718,
+                #enter lat and lon of your device location!
+                "latitude": 11.335589,
+                "longitude":83.999999,
             }
         ])
 
