@@ -6,6 +6,14 @@ A script to link a Raspberry Pi with an Arduino connected DHT11 sensor connected
 
 The code in the file "kaaconection.py" has to be modified with the information kaa provides you on account setup. DON'T LOSE THAT INFORMATION!
 
+MATERIALS:
+Raspberry Pi running Raspbian
+Arduino Uno
+Temperature/Humidity Sensor (DHT11) and breadboard
+Wires to connect devices
+Account for KAA cloud service 
+
+
 Set up your Raspberry Pi similar to the image below and look at the pin you are plugged into and make sure the pin in the code is set to the same pin the senor is plugged into on the Arduino!
 
 ![Capture](https://user-images.githubusercontent.com/60445081/144125723-61af448d-efb9-4274-8f15-ed3a1010cd87.PNG)
