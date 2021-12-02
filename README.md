@@ -8,9 +8,13 @@ The code in the file "kaaconection.py" has to be modified with the information k
 
 MATERIALS:
 Raspberry Pi running Raspbian
+
 Arduino Uno
+
 Temperature/Humidity Sensor (DHT11) and breadboard
+
 Wires to connect devices
+
 Account for KAA cloud service 
 
 
