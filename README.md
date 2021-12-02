@@ -24,7 +24,7 @@ Set up your Raspberry Pi similar to the image below and look at the pin you are 
 
 ![Capture](https://user-images.githubusercontent.com/60445081/144125723-61af448d-efb9-4274-8f15-ed3a1010cd87.PNG)
 
-Put the code in a folder on the pi and install the following and place the extracted folders in the folder with your code. 
+Download the code and put it in a folder on the pi and install the following and place the extracted folders in the folder with your code. 
 https://www.arduino.cc/reference/en/libraries/tinydht-sensor-library/
 https://www.arduino.cc/reference/en/libraries/arduinomqtt/
 
