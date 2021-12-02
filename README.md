@@ -30,5 +30,6 @@ https://www.arduino.cc/reference/en/libraries/arduinomqtt/
 
 Or install paho and adafruit via command line on the pi. If you try to run the code without these directorys installed, it will not work and will prompt you to do so.
 
+Edit the sections in the code that are commented to fill out information that kaa will give you during account setup and information about your device!
 
 Run the code using Thonny and enjoy!
